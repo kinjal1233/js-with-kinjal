@@ -1,5 +1,21 @@
 
 //+++++++++++++++++++  maths ++++++++++++++++++++++++++++//
+//  +++++  js in a single thread ++++++++++
+
+//  js execution phase two types 1. memory creation phase 2. execution phase 
+
+// 1.  allocate a memory to variables or whatever we declared 
+// 2.  execute a methemetical functions or something 
+
+
+
+
+
+
+
+
+
+
 
 // console.log(Math);
 // console.log(Math.abs(-5));
